@@ -1,0 +1,23 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1</version>
+
+  <!--Dependency:-->
+  <dependencies>
+      <dependency>
+         <groupId>com.amazonaws</groupId>
+         <artifactId>DynamoDBLocal</artifactId>
+         <version>[1.11,2.0)</version>
+      </dependency>
+  </dependencies>
+  <!--Custom repository:-->
+  <repositories>
+      <repository>
+         <id>dynamodb-local-oregon</id>
+         <name>DynamoDB Local Release Repository</name>
+         <url>https://s3-us-west-2.amazonaws.com/dynamodb-local/release</url>
+      </repository>
+  </repositories>
+</project>

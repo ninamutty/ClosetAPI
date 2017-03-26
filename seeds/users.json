@@ -1,0 +1,78 @@
+[
+  { "provider": "Facebook",
+    "uid": 1235,
+    "name": "Nina Mutty",
+    "email": "nina@me.com",
+    "username": "nmutty",
+    "password": "password",
+    "location": "Seattle",
+    "image_url": "http://placecage/300/200",
+    "created_at": "1490568639543",
+    "updated_at": "1490568639543",
+    "first_name": "Nina",
+    "last_name": "Mutty",
+    "age_range": "20-30",
+    "gender": "female",
+    "outfits": [
+      {
+        "name": "Jeans and Tshirt",
+        "category": "casual",
+        "reworn_count": 2,
+        "favorite": true,
+        "created_at": "1490568639543",
+        "updated_at": "1490568639543",
+        "photo_file_name": "",
+        "photo_content_type": "",
+        "photo_file_size": 0,
+        "photo_updated_at": "1490568639543",
+        "user_id": "uid",
+        "last_worn": "1490568639543",
+        "tags": [
+          "sneakers",
+          "jeans",
+          "tshirt",
+          "comfy"
+        ]
+      },
+      {
+        "name": "Bear Dress and Booties",
+        "category": "business",
+        "reworn_count": 3,
+        "favorite": true,
+        "created_at": "1490568639543",
+        "updated_at": "1490568639543",
+        "photo_file_name": "",
+        "photo_content_type": "",
+        "photo_file_size": 0,
+        "photo_updated_at": "1490568639543",
+        "user_id": "uid",
+        "last_worn": "1490568639543",
+        "tags": [
+          "dress",
+          "booties",
+          "fun"
+        ]
+      },
+      {
+        "name": "Cavempt and Booties",
+        "category": "casual",
+        "reworn_count": 0,
+        "favorite": false,
+        "created_at": "1490568639543",
+        "updated_at": "1490568639543",
+        "photo_file_name": "",
+        "photo_content_type": "",
+        "photo_file_size": 0,
+        "photo_updated_at": "1490568639543",
+        "user_id": "uid",
+        "last_worn": "1490568639543",
+        "tags": [
+          "booties",
+          "jeans",
+          "tshirt",
+          "comfy"
+        ]
+      }
+    ]
+  }
+]
