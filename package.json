@@ -20,7 +20,17 @@
   "dependencies": {
     "aws-sdk": "^2.28.0",
     "body-parser": "^1.17.1",
-    "dynamodb-doc": "^1.0.0",
-    "express": "^4.15.2"
+    "cors": "^2.8.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "express-jwt": "^5.3.0",
+    "express-unless": "^0.3.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.9.5",
+    "morgan": "^1.8.1",
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
   }
 }
