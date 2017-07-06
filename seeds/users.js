@@ -1,5 +1,5 @@
 'use strict';
-var User = require('./../models/user.js');
+var User = require('../user.js');
 
 var users = [
   { provider: "Facebook",
